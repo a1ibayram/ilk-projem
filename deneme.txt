@@ -1,1 +1,1 @@
-1 - Graph 1000 - Adet: 9 Türü: 0.5
+1 - Graph 1000 - Adet: 9 Türü: 0.3
